@@ -1,0 +1,166 @@
+﻿#pragma once
+
+// Name: AWL, Version: 4.24.3
+
+
+/*!!DEFINE!!*/
+
+/*!!HELPER_DEF!!*/
+
+/*!!HELPER_INC!!*/
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+//---------------------------------------------------------------------------
+// Parameters
+//---------------------------------------------------------------------------
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.AnimGraph
+struct UMixamo_AWL_AnimatorBOT_C_AnimGraph_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.GetIsProne
+struct UMixamo_AWL_AnimatorBOT_C_GetIsProne_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_4F3382E1425FA23D5E2F32B1A79E4AC8
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_4F3382E1425FA23D5E2F32B1A79E4AC8_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_DD4E5E39478353E2F59AC2952AAF665B
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_DD4E5E39478353E2F59AC2952AAF665B_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_5BEFB8D34985E8DBC274D68E50394614
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_5BEFB8D34985E8DBC274D68E50394614_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_AFFCB3F647EC3F78D41BD488DAB7C524
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_AFFCB3F647EC3F78D41BD488DAB7C524_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_F91C4B794F077F4A8B29CD9B5841832A
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_F91C4B794F077F4A8B29CD9B5841832A_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_D81D1FEB405DE97FCB7BF0AA2A2AFEF3
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_D81D1FEB405DE97FCB7BF0AA2A2AFEF3_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_55053FB4496183AE84991FB2A0743131
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_55053FB4496183AE84991FB2A0743131_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_D15380064CE827DFFCB51F8BA117812C
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_D15380064CE827DFFCB51F8BA117812C_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_01A7B64A4404DBA9AE09188ACD9501A5
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_01A7B64A4404DBA9AE09188ACD9501A5_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_1A9AC4D44CAC958C4F75779DCBDE61BD
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_1A9AC4D44CAC958C4F75779DCBDE61BD_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_0D5CF2CB45C10AF03B70099FC7CA3757
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_0D5CF2CB45C10AF03B70099FC7CA3757_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_BEA9B64B421C3DC9DFEFC2B32E91096D
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_BEA9B64B421C3DC9DFEFC2B32E91096D_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_783C1A164C8476BF5249A691584213BB
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_783C1A164C8476BF5249A691584213BB_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_889CAAC34CA57494DDA45198FE5DCB0F
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_889CAAC34CA57494DDA45198FE5DCB0F_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_DDEF3D5044347824F003CE9B0B812DE4
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_DDEF3D5044347824F003CE9B0B812DE4_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_9A974AA5410F004093BD1C985327A61C
+struct UMixamo_AWL_AnimatorBOT_C_EvaluateGraphExposedInputs_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_AnimGraphNode_TransitionResult_9A974AA5410F004093BD1C985327A61C_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.BlueprintUpdateAnimation
+struct UMixamo_AWL_AnimatorBOT_C_BlueprintUpdateAnimation_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.AnimNotify_EnableMovement
+struct UMixamo_AWL_AnimatorBOT_C_AnimNotify_EnableMovement_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.AnimNotify_DisableMovement
+struct UMixamo_AWL_AnimatorBOT_C_AnimNotify_DisableMovement_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.AnimNotify_RFoot
+struct UMixamo_AWL_AnimatorBOT_C_AnimNotify_RFoot_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.AnimNotify_LFoot
+struct UMixamo_AWL_AnimatorBOT_C_AnimNotify_LFoot_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.CheckLodSystem
+struct UMixamo_AWL_AnimatorBOT_C_CheckLodSystem_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.CheckStepsType
+struct UMixamo_AWL_AnimatorBOT_C_CheckStepsType_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.PlayStep
+struct UMixamo_AWL_AnimatorBOT_C_PlayStep_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.BlueprintInitializeAnimation
+struct UMixamo_AWL_AnimatorBOT_C_BlueprintInitializeAnimation_Params
+{
+};
+
+// Function Mixamo_AWL_AnimatorBOT.Mixamo_AWL_AnimatorBOT_C.ExecuteUbergraph_Mixamo_AWL_AnimatorBOT
+struct UMixamo_AWL_AnimatorBOT_C_ExecuteUbergraph_Mixamo_AWL_AnimatorBOT_Params
+{
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif

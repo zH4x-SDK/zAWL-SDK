@@ -1,0 +1,51 @@
+﻿#pragma once
+
+// Name: AWL, Version: 4.24.3
+
+
+/*!!DEFINE!!*/
+
+/*!!HELPER_DEF!!*/
+
+/*!!HELPER_INC!!*/
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x01)
+#endif
+
+namespace CG
+{
+//---------------------------------------------------------------------------
+// Classes
+//---------------------------------------------------------------------------
+
+// WidgetBlueprintGeneratedClass LoadingScreen.LoadingScreen_C
+// 0x0000
+class ULoadingScreen_C : public UUserWidget
+{
+public:
+
+
+	static UClass* StaticClass()
+	{
+		static UClass* ptr = UObject::FindClass("WidgetBlueprintGeneratedClass LoadingScreen.LoadingScreen_C");
+		return ptr;
+	}
+
+
+
+	void Finished_36531B5A49A1D4A809254A93AD93D1EC();
+	void HideBlackScreen();
+	void ShowBlackScreen();
+	void ShowSoftStyle();
+	void Stop();
+	void Tick();
+	void Construct();
+	void ExecuteUbergraph_LoadingScreen();
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif
